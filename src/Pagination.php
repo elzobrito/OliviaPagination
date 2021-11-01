@@ -1,6 +1,6 @@
 <?php
 
-namespace elzobrito;
+namespace OliviaPagination;
 
 class Pagination
 {
